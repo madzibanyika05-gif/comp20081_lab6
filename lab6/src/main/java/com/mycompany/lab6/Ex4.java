@@ -9,7 +9,7 @@ package com.mycompany.lab6;
  * @author ntu-user
  */
 
-class Shot extends Thread {
+class Shot2 extends Thread {
  
     @Override
     public void run()
@@ -24,7 +24,7 @@ class Shot extends Thread {
     }
 }
  
-class Miss extends Thread {
+class Miss2 extends Thread {
  
     @Override
     public void run()

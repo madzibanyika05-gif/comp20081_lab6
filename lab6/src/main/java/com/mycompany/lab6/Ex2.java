@@ -13,7 +13,7 @@ import java.util.*;
  
 // Class 1
 // Helper class implementing Runnable interface
-class MyThread1 implements Runnable {
+class MyThread3 implements Runnable {
  
     // run() method inside this class
     public void run()
@@ -42,7 +42,7 @@ class MyThread1 implements Runnable {
  
 // Class 2
 // Helper class implementing Runnable interface
-class MyThread2 implements Runnable {
+class MyThread4 implements Runnable {
  
     // run() method inside this class
     public void run()
